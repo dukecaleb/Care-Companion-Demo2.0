@@ -1,0 +1,3 @@
+event_name,datetime_iso,city,state,latitude,longitude,tags,host
+Walk & Stretch (15 min),2025-10-06T12:10:14.889621,Worcester,MA,42.2626,-71.8023,movement;community,CareCompanion
+Farmers Market Veggie Swap,2025-10-07T12:10:14.889625,Worcester,MA,42.2626,-71.8023,nutrition;social,CareCompanion
